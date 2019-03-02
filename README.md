@@ -11,6 +11,7 @@ project 2:
   in the folder "Second part" there are the moore's and jhonson's algorithms developed using matlab and lingo.
   
 project 3:
+  The ".docx" describe the two problem --->
   The first exercise is a "Route first cluster second" problem solved in lingo;
   the second is a big excel file that contain an evaluation of the daily sales over a year for 5 petrol sales points 
   using basic statistical indices such as averages, standard deviations, correlations between points of sale and 
